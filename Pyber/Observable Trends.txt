@@ -1,0 +1,7 @@
+Observable Trends
+
+1. Urban cities make up the greatest percentage of rides, fares, and drivers
+
+2. Rural fares tended to be the highest, even though the ride count was low
+
+3. Suburban areas tend to have higher ride counts than rural areas, but lower fare totals, the opposite is true when compared to cities.
