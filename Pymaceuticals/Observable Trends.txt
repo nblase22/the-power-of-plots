@@ -1,0 +1,7 @@
+Observable trends:
+
+1. Only 2 of the drugs were particularly effective at lowering tumor volume, Capomulin, and Ramicane.
+
+2. All of the drugs saw an increase in metastatic sites over the course of the study.
+
+3. Propriva had the lowest survival rate of all of the drugs.
